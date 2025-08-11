@@ -1,5 +1,6 @@
 nav {
  background-color: grey;
  position: fixed;
- display: flex
+ display: flex;
+ font-familly: Rubik
 }
